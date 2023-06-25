@@ -86,3 +86,21 @@ https://www.tutorialspoint.com/dip/sobel_operator.htm
 3) Read the python file. All instructions are given in the TO DO part.
 4) We expect you to identify the process in the given 3 images.
 
+## Week 3
+### Theory:
+### PCA 
+https://www.javatpoint.com/principal-component-analysis
+https://youtube.com/playlist?list=PLBv09BD7ez_5_yapAg86Od6JeeypkS4YM
+https://www.simplilearn.com/tutorials/machine-learning-tutorial/principal-component-analysis#:~:text=The%20Principal%20Component%20Analysis%20is,plotting%20in%202D%20and%203D
+#### MNIST Dataset
+https://www.oreilly.com/library/view/mastering-predictive-analytics/9781789617740/99cc78af-f05e-40d8-8aa3-ff62ef2c8e26.xhtml
+
+## Week 4
+### Coding part
+Assignment 2
+Reference: resources provided in the week 3 and online resources
+Submission format: Make a folder named ‘assignment2’ in your digital image processing Github and submit the repo link.
+
+
+
+
