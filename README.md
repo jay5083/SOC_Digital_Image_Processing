@@ -42,7 +42,7 @@ If you don’t have python installed in your laptop install using following step
 #### Let’s run the first program- 
 Watch the below video- https://www.youtube.com/watch?v=E9U-EBG8jVk&ab_channel=ProgrammingKnowledge
 
-## Week 1
+## Week 1: Basics of Image Processing
 ### Theory
 
 https://www.tutorialspoint.com/dip/concept_of_pixel.htm
@@ -66,7 +66,7 @@ Open Command Prompt (Search ‘cmd’ in search) and type ‘pip install numpy�
 https://www.tutorialspoint.com/numpy/index.htm
 Start from NumPy- Ndarray Object
 
-## Week 2
+## Week 2-3:
 ### Theory
 https://www.tutorialspoint.com/dip/concept_of_convolution.htm
 https://www.tutorialspoint.com/dip/concept_of_masks.htm
@@ -86,7 +86,7 @@ https://www.tutorialspoint.com/dip/sobel_operator.htm
 3) Read the python file. All instructions are given in the TO DO part.
 4) We expect you to identify the process in the given 3 images.
 
-## Week 3
+## Week 4:
 ### Theory:
 ### PCA 
 1) https://www.javatpoint.com/principal-component-analysis
@@ -95,11 +95,35 @@ https://www.tutorialspoint.com/dip/sobel_operator.htm
 #### MNIST Dataset
 4) https://www.oreilly.com/library/view/mastering-predictive-analytics/9781789617740/99cc78af-f05e-40d8-8aa3-ff62ef2c8e26.xhtml
 
-## Week 4
+## Week 6-7:
 ### Coding part
 Assignment 2.
-Reference: resources provided in the week 3 and online resources
-Submission format: Make a folder named ‘assignment2’ in your digital image processing Github and submit the repo link.
+Reference: resources provided in the week 4 and online resources
+Submission format: Folder named ‘assignment2’ in digital image processing Github.
+
+## Week 8-9:
+### Theory:
+Below are some operators:
+1) https://www.tutorialspoint.com/dip/concept_of_edge_detection.htm
+2) https://www.tutorialspoint.com/dip/prewitt_operator.htm
+3) https://www.tutorialspoint.com/dip/sobel_operator.htm
+4) https://www.tutorialspoint.com/dip/laplacian_operator.htm
+5) https://www.geeksforgeeks.org/image-edge-detection-operators-in-digital-image-processing/
+6) https://justin-liang.com/tutorials/canny/
+7) https://towardsdatascience.com/canny-edge-detection-step-by-step-in-python-computer-vision-b49c3a2d8123
+
+Video Resources:
+1) https://www.youtube.com/watch?v=97PLw2eNpaQ
+2) https://www.youtube.com/watch?v=H4kKKU2_tJM&list=PL3uLubnzL2TkQ5ZpBIpX34t0cpggGMuIF&index=20
+3) https://www.youtube.com/watch?v=UoplolN0siE&list=PL3uLubnzL2TkQ5ZpBIpX34t0cpggGMuIF&index=22
+4) https://www.youtube.com/watch?v=3RxuHYheL4w&list=PL3uLubnzL2TkQ5ZpBIpX34t0cpggGMuIF&index=23
+
+## Week 10:
+### Coding Part:
+Assignment 3.
+Reference: resources provided in the week 8-9 and online resources
+Submission format: Folder named ‘assignment3’ in digital image processing Github.
+
 
 
 
