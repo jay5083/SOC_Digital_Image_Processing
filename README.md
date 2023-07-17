@@ -120,9 +120,9 @@ Video Resources:
 
 ## Week 10:
 ### Coding Part:
-Assignment 3.
-Reference: resources provided in the week 8-9 and online resources
-Submission format: Folder named ‘assignment3’ in digital image processing Github.
+- Assignment 3.
+- Reference: resources provided in the week 8-9 and online resources
+- Submission format: Folder named ‘assignment3’ in digital image processing Github.
 
 
 
