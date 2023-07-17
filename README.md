@@ -97,9 +97,9 @@ https://www.tutorialspoint.com/dip/sobel_operator.htm
 
 ## Week 6-7:
 ### Coding part
-Assignment 2.
-Reference: resources provided in the week 4 and online resources
-Submission format: Folder named ‘assignment2’ in digital image processing Github.
+- Assignment 2.
+- Reference: resources provided in the week 4 and online resources
+- Submission format: Folder named ‘assignment2’ in digital image processing Github.
 
 ## Week 8-9:
 ### Theory:
