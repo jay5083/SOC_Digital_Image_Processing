@@ -86,7 +86,7 @@ https://www.tutorialspoint.com/dip/sobel_operator.htm
 3) Read the python file. All instructions are given in the TO DO part.
 4) We expect you to identify the process in the given 3 images.
 
-## Week 4:
+## Week 4: PCA Theory
 ### Theory:
 ### PCA 
 1) https://www.javatpoint.com/principal-component-analysis
@@ -95,13 +95,13 @@ https://www.tutorialspoint.com/dip/sobel_operator.htm
 #### MNIST Dataset
 4) https://www.oreilly.com/library/view/mastering-predictive-analytics/9781789617740/99cc78af-f05e-40d8-8aa3-ff62ef2c8e26.xhtml
 
-## Week 6-7:
+## Week 6-7: PCA Practical
 ### Coding part
 - Assignment 2.
 - Reference: resources provided in the week 4 and online resources
 - Submission format: Folder named ‘assignment2’ in digital image processing Github.
 
-## Week 8-9:
+## Week 8-9: Edge Detection
 ### Theory:
 Below are some operators:
 1) https://www.tutorialspoint.com/dip/concept_of_edge_detection.htm
@@ -118,13 +118,17 @@ Video Resources:
 3) https://www.youtube.com/watch?v=UoplolN0siE&list=PL3uLubnzL2TkQ5ZpBIpX34t0cpggGMuIF&index=22
 4) https://www.youtube.com/watch?v=3RxuHYheL4w&list=PL3uLubnzL2TkQ5ZpBIpX34t0cpggGMuIF&index=23
 
-## Week 10:
+## Week 10: Canny Edge Detector
 ### Coding Part:
 - Assignment 3.
 - Reference: resources provided in the week 8-9 and online resources
 - Submission format: Folder named ‘assignment3’ in digital image processing Github.
 
-
+## Week 11: Future in Digital Image Processing
+### Theory: 
+- https://www.youtube.com/watch?v=F7KyhurbR8I
+- https://www.v7labs.com/blog/computer-vision-applications
+- https://www.skyfilabs.com/blog/future-of-image-processing
 
 
 
