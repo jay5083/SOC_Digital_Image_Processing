@@ -130,5 +130,4 @@ Video Resources:
 - https://www.v7labs.com/blog/computer-vision-applications
 - https://www.skyfilabs.com/blog/future-of-image-processing
 
-
-
+# ALL THE BEST 😃
